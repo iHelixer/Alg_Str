@@ -1,3 +1,5 @@
+package SortPack;
+
 import com.example.MergeSort;
 import org.junit.jupiter.api.Test;
 

@@ -1,3 +1,5 @@
+package SortPack;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 import com.example.BasicAlgSort;

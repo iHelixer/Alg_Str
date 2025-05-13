@@ -1,3 +1,5 @@
+package SortPack;
+
 import com.example.QuickSort;
 import org.junit.jupiter.api.Test;
 
